@@ -1,3 +1,5 @@
+![Adult Income](https://github.com/Ahmad-Ali-Rafique/Adult-Income-Dataset/blob/main/Adult%20income.png)
+
 ## About Me
 
 **Greetings! I'm Ahmad Ali**
