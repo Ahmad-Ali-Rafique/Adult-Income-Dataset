@@ -35,3 +35,4 @@ This repository delves into my exploration of the Adult Income Dataset dataset. 
 **Be Part of the Journey!**
 
 This repository welcomes contributions! If you have insights, improvements, or suggestions, feel free to submit a Pull Request. Let's build something amazing together!
+## [Ahmad Ali CV](https://drive.google.com/file/d/1bNLIx1j85e8ax21ZEC0DPt5C1at8vHjv/view?usp=sharing)
